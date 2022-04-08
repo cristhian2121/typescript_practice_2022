@@ -1,4 +1,7 @@
-
+/**
+ * The main difference betweend interface and type
+ * is that the interfaces can extend and the types no
+ */
 
 type Sizes = 'S' | 'M' | 'L' | 'XL';
 type userId = string | number;
